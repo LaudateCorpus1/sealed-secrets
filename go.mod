@@ -17,8 +17,7 @@ require (
 	github.com/prometheus/client_golang v1.9.0
 	github.com/spf13/pflag v1.0.5
 	github.com/throttled/throttled v2.2.2+incompatible
-	golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9
-	golang.org/x/text v0.3.3 // indirect
+	golang.org/x/crypto v0.1.0
 	gopkg.in/yaml.v2 v2.3.0
 	k8s.io/api v0.16.8
 	k8s.io/apimachinery v0.16.8
